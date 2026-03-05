@@ -6,6 +6,7 @@ Principais fuções:
 ### is_consistent_map:
 Esta função recebe o mapa de vizinhos definido anteriormente e itera entre os valores deste dicionario.
 então ele retora o estado de um valor que tenha sido visitado negado (isto é com a função de not invertemos o estado)
+
 ### backtracking_map:
 Esta função começa verificando se todos os valores foram verificados por meio de verificação do tamanho das listas
 então verificamos e a variavel foi visitada, se não ela é adicionada no começo de uma lista para um funcionamento parecido como uma fila, e o processo é
